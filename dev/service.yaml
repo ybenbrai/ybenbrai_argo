@@ -6,7 +6,7 @@ metadata:
   labels:
     app: will-playground
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app: will-playground
